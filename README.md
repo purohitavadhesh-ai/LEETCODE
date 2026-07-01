@@ -7,4 +7,16 @@ MY LEETCODE SOLUTION
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
