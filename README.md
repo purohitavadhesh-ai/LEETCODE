@@ -20,4 +20,12 @@ MY LEETCODE SOLUTION
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/purohitavadhesh-ai/LEETCODE/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
